@@ -11,6 +11,10 @@
     <title>$Title$</title>
   </head>
   <body>
-  hello 부스트코스
+  hello 부스트코스 서블릿 테스트
+  <form action="testServlet" method="get">
+    <input type="text" name="id">
+    <input type="submit" value="전송">
+  </form>
   </body>
 </html>

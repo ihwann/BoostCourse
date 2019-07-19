@@ -49,4 +49,15 @@
         <extension>wsdl</extension>
         <mime-type>text/xml</mime-type>
     </mime-mapping>
+
+
+    <servlet>
+        <servlet-name>today</servlet-name>
+        <servlet-class>aboutme.today</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>today</servlet-name>
+        <url-pattern>/aboutme/today</url-pattern>
+    </servlet-mapping>
 </web-app>
