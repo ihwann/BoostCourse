@@ -16,7 +16,7 @@
             font-family: sans-serif;
         }
         .myspan{
-            color: red;
+            color: blueviolet;
             font-size: 0.5em;
         }
     </style>

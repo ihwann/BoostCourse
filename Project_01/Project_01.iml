@@ -25,5 +25,6 @@
     <orderEntry type="library" scope="PROVIDED" name="Tomcat 9.0.19" level="application_server_libraries" />
     <orderEntry type="library" name="JAX-WS-Apache Axis" level="project" />
     <orderEntry type="library" name="tomcat:servlet:4.1.36" level="project" />
+    <orderEntry type="library" name="Java EE 6-Java EE 6" level="project" />
   </component>
 </module>
